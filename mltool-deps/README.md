@@ -10,7 +10,7 @@ Contains dependenies required by [mltool](https://github.com/Alexander-Ignatyev/
 
 Docker will download image if it is still not on the Docker host.
 
-### 2. Build the project inside the deocker container:
+### 2. Build the project inside the docker container:
 
 ```
 % git clone https://github.com/Alexander-Ignatyev/mltool.git
